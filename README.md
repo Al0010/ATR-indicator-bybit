@@ -13,5 +13,5 @@
 -----------------------------------------------------------------------------------------------------------------------------
 4) Then install the necessary libraries: `pip install -r requirements.txt` or `pip3 install -r requirements.txt`
 -----------------------------------------------------------------------------------------------------------------------------
-5) Finally, run your script: `python ./main.py`or run it from Visual Studio Code. 
+5) Finally, run your script: `python ./ATR.py`or run it from Visual Studio Code. 
 -----------------------------------------------------------------------------------------------------------------------------
