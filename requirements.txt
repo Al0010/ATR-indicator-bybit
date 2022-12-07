@@ -1,0 +1,4 @@
+Bybit==0.2.12
+pybit==2.4.1
+pandas-datareader==0.10.0
+plotly==5.11.0
